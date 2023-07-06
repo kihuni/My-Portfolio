@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/tool.jpg";
+import image from "../images/portfolio.png";
 
-const imageAltText = "laptop and tools";
+const imageAltText = "adult standing";
 
 /**
  * Project list
