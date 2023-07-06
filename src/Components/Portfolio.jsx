@@ -31,23 +31,23 @@ const imageAltText = "laptop and tools";
  */
 const projectList = [
   {
+    title: "Blog",
+    description: "Discover the realm of back-end development right here",
+    url: "https://dev.to/kihuni",
+  },
+  {
     title: "Updating Soon🎉",
-    description: "Updating Soon",
+    description: "",
     url: "",
   },
   {
     title: "Updating Soon🎉",
-    description: "Updating Soon",
+    description: "",
     url: "",
   },
   {
     title: "Updating Soon🎉",
-    description: "Updating Soon",
-    url: "",
-  },
-  {
-    title: "Updating Soon🎉",
-    description: "Updating Soon",
+    description: "",
     url: "",
   },
 ];
